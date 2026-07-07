@@ -12,6 +12,21 @@ radio devices, and more through a single configuration file.
   - [x] Coordinated application of many settings at once
   - [x] Per-device exceptions
 
+## Plan
+> Installation
+> Configuration File
+> CPU Settings
+> Disk Settings
+> USB Autosuspend
+> Radio Device Management
+> Battery Charge Thresholds
+> Applying Configuration Changes
+> Useful tlp-stat Outputs
+> Troubleshooting
+> Monitoring Battery Health
+
+
+
 # Conclusion
 TLP is generally set-and-forget after initial configuration. The defaults are already good for most
 laptops, and customizing the charge thresholds is usually the most impactful change for long-
