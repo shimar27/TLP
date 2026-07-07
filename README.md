@@ -6,8 +6,13 @@ radio devices, and more through a single configuration file.
 
 
 # Ubuntu has basic power management through upower and systemd, but TLP adds:
-  Automatic per-device power management
-  Different settings for AC vs battery
-  Battery charge thresholds (for compatible hardware)
-  Coordinated application of many settings at once
-  Per-device exceptions
+  - [x] Automatic per-device power management
+  - [x] Different settings for AC vs battery
+  - [x] Battery charge thresholds (for compatible hardware)
+  - [x] Coordinated application of many settings at once
+  - [x] Per-device exceptions
+
+# Conclusion
+TLP is generally set-and-forget after initial configuration. The defaults are already good for most
+laptops, and customizing the charge thresholds is usually the most impactful change for long-
+term battery health.
