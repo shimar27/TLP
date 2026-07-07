@@ -13,17 +13,17 @@ radio devices, and more through a single configuration file.
   - [x] Per-device exceptions
 
 ## Plan
-> Installation
-> Configuration File
-> CPU Settings
-> Disk Settings
-> USB Autosuspend
-> Radio Device Management
-> Battery Charge Thresholds
-> Applying Configuration Changes
-> Useful tlp-stat Outputs
-> Troubleshooting
-> Monitoring Battery Health
+* Installation
+* Configuration File
+* CPU Settings
+* Disk Settings
+* USB Autosuspend
+* Radio Device Management
+* Battery Charge Thresholds
+* Applying Configuration Changes
+* Useful tlp-stat Outputs
+* Troubleshooting
+* Monitoring Battery Health
 
 
 
