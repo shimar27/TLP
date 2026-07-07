@@ -1,0 +1,6 @@
+Ubuntu has basic power management through upower and systemd, but TLP adds:
+  Automatic per-device power management
+  Different settings for AC vs battery
+  Battery charge thresholds (for compatible hardware)
+  Coordinated application of many settings at once
+  Per-device exceptions
