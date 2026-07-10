@@ -1,0 +1,7 @@
+TLP's configuration lives in /etc/tlp.conf . The file is well-commented and uses a SETTING=value format with separate AC and battery values for most settings.
+
+# Edit the configuration
+sudo nano /etc/tlp.conf
+
+
+
