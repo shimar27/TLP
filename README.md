@@ -14,27 +14,6 @@ radio devices, and more through a single configuration file.
 
 ## Plan
 * Installation
-            # TLP is in the Ubuntu repositories
-            sudo apt update
-            sudo apt install tlp tlp-rdw
-            # For ThinkPad users: additional kernel module for battery thresholds
-            sudo apt install tp-smapi-dkms acpi-call-dkms
-            # For ASUS, Samsung, HP with ACPI battery tools
-            # Check if acpi-call works for your laptop
-            sudo apt install acpi-call-dkms
-            # Enable and start TLP
-            sudo systemctl enable tlp
-            sudo systemctl start tlp
-            # Check status
-            sudo tlp-stat -s
-
-
-
-
-
-
-
-
 * Configuration File
 * CPU Settings
 * Disk Settings
